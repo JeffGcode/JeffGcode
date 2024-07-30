@@ -1,0 +1,15 @@
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.csproj.AssemblyReference.cache
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\App.g.cs
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame_MarkupCompile.cache
+C:\Users\jeffgo\source\repos\Matchgame\bin\Debug\Matchgame.exe.config
+C:\Users\jeffgo\source\repos\Matchgame\bin\Debug\Matchgame.exe
+C:\Users\jeffgo\source\repos\Matchgame\bin\Debug\Matchgame.pdb
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\MainWindow.g.cs
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame_MarkupCompile.lref
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\MainWindow.baml
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.g.resources
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.Properties.Resources.resources
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.csproj.GenerateResource.cache
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.csproj.CoreCompileInputs.cache
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.exe
+C:\Users\jeffgo\source\repos\Matchgame\obj\Debug\Matchgame.pdb
